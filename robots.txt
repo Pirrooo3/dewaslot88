@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://dewaslot88.zefi.network/sitemap.xml
+Sitemap: https://dewaslot88.zefi.network/sitemap.xml
